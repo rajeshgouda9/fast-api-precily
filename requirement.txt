@@ -1,0 +1,4 @@
+uvicorn
+gunicorn
+fastapi
+sentence_transformers
